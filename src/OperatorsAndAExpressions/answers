@@ -1,0 +1,23 @@
+float a = 7/4 * 9/2;
+The division operations involve integers, so integer arithmetic will be used, potentially resulting in truncation.
+
+7/4 = 1 (since it's integer division)
+9/2 = 4 (again, integer division)
+
+1 * 4 = 4
+
+Thus, the value of a will be 4.0.
+
+-----------------------------------------------------------------
+
+int a = 7*49/7 + 35/7;
+7*49 = 343
+343/7 = 49
+
+35/7 = 5
+
+49 + 5 = 54
+
+So, the value of a will be 54.
+
+------------------------------------------------------------------------
